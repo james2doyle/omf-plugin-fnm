@@ -14,7 +14,7 @@ Completion support for [Schniz/fnm](https://github.com/Schniz/fnm). Plugin for [
 ## Install
 
 ```fish
-$ omf install fnm
+$ omf install https://github.com/james2doyle/omf-plugin-fnm
 ```
 
 
