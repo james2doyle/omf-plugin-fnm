@@ -9,14 +9,21 @@
 
 # fnm
 
-Completion support for [Schniz/fnm](https://github.com/Schniz/fnm). Plugin for [Oh My Fish][omf-link].
+Completion support for [Schniz/fnm](https://github.com/Schniz/fnm).
 
 ## Install
+
+### Using [Oh My Fish][omf-link]
 
 ```fish
 $ omf install https://github.com/james2doyle/omf-plugin-fnm
 ```
 
+### Using [Fisher][fisher-link]
+
+```fish
+$ fisher add james2doyle/omf-plugin-fnm
+```
 
 ## Usage
 
@@ -32,5 +39,6 @@ Forked from: [MIT][mit] © [james2doyle][author]
 [mit]:            http://opensource.org/licenses/MIT
 [author]:         http://github.com/james2doyle
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
+[fisher-link]:    https://www.github.com/jorgebucaran/fisher
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
